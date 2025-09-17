@@ -7,4 +7,7 @@ I started to develop tools for faster raster data processing, and hoping to star
 #### 🔭 My current project
 - [rusterize](https://github.com/ttrotto/rusterize): a Python tool built in Rust for fast polygon rasterization (geopandas to xarray)
 
+#### 📚 My research
+Check out my [ResearchGate](https://www.researchgate.net/profile/Tommaso-Trotto?ev=hdr_xprf) profile!
+
 Feel free to reach out if you have suggestions for improvements or collaborations 🙂
