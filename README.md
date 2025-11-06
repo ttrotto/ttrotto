@@ -5,9 +5,11 @@ I'm Tommaso Trotto, a PhD Candidate in the Integrated Remote Sensing Studio at T
 I started to develop tools for faster raster data processing, and hoping to start working on lidar data manipulation soon! My primary programming languages are Python and Rust
 
 #### 🔭 My current project
-- [rusterize](https://github.com/ttrotto/rusterize): a Python tool built in Rust for fast polygon rasterization (geopandas to xarray)
+- [rusterize](https://github.com/ttrotto/rusterize): a Python tool built in Rust for very fast geometry rasterization
 
 #### 📚 My research
 Check out my [ResearchGate](https://www.researchgate.net/profile/Tommaso-Trotto?ev=hdr_xprf) profile!
 
 Feel free to reach out if you have suggestions for improvements or collaborations 🙂
+
+[My e-Portfolio](https://ttrotto.github.io/)
