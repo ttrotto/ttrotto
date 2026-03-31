@@ -1,8 +1,8 @@
 ## Hi 👋
 
-I'm Tommaso Trotto, a PhD Candidate in the Integrated Remote Sensing Studio at The University of British Columbia. My main focus is on ✨ lidar and satellite ✨ applications to study changes in the forest resilience associated with non-stand replacing disturbances. 
+I'm Tommaso Trotto, a Postdoctoral Research Fellow in the Integrated Remote Sensing Studio at The University of British Columbia. My main focus is on ✨ lidar and satellite ✨ applications to continuously monitor forest resources and update inventories in the Canadian boreal forests.  
 
-I started to develop tools for faster raster data processing, and hoping to start working on tools for lidar data manipulation soon! My primary programming languages are Python and Rust
+I started to develop tools for faster raster data processing, and am actively working on a library for lidar data manipulation! My primary programming languages are Python and Rust.
 
 #### 🔭 My current project
 - [rusterize](https://github.com/ttrotto/rusterize): a Python tool built in Rust for very fast geometry rasterization
@@ -12,4 +12,4 @@ Check out my [ResearchGate](https://www.researchgate.net/profile/Tommaso-Trotto?
 
 Feel free to reach out if you have suggestions for improvements or collaborations 🙂
 
-[My e-Portfolio](https://ttrotto.github.io/)
+[My Portfolio](https://ttrotto.github.io/)
